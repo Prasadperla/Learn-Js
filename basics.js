@@ -1,1 +1,7 @@
-console.log('prasad')
+//Type conversions
+
+/*
+String, Number, Boolean
+*/
+//********************************Operations********************************************
+
